@@ -1,5 +1,5 @@
 # Chronic-Kidney-Disease-Healthcare-Project
-Prediction of Chronic Kidney Disease using k-Nearest Neighbors (KNN) and MLP
+Prediction of Chronic Kidney Disease using k-Nearest Neighbors (KNN) 
 
 ![Kidney](https://github.com/Ajay-Dobliyal/Chronic-Kidney-Disease-Healthcare-Project/assets/91046133/2d1cb711-5b81-45e3-938a-66c9e26f379e)
 
