@@ -7,6 +7,11 @@ Prediction of Chronic Kidney Disease using k-Nearest Neighbors (KNN)
 
 https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 
+Predicting Chronic Kidney Disease based on health records. Given 24 health related attributes taken in 2-month period of 400 patients, using the information of the 158 patients with complete records to predict the outcome (i.e. whether one has chronic kidney disease) of the remaining 242 patients (with missing values in their records).
+
+![image](https://github.com/Ajay-Dobliyal/Chronic-Kidney-Disease-Healthcare-Project/assets/91046133/77a1e1d7-86e1-44d7-9bfe-8c435e352264)
+
+
 
 **Screenshots**
 
